@@ -1,5 +1,4 @@
 @media only screen and (min-width: 1500px) and (max-width: 2060px) {
-
   /* css contact maps */
   .contact_maps {
     padding-top: 4%;
@@ -64,8 +63,6 @@
     font-style: normal;
     color: #ffffff;
   }
-
-
 
   .contact_maps_right_address_h4 {
     font-family: "Segoe UI";
@@ -300,7 +297,6 @@
 
 /* Responsive contact */
 @media only screen and (min-width: 1300px) and (max-width: 1500px) {
-
   /* css contact maps */
   .contact_maps {
     padding-top: 4%;
@@ -361,7 +357,6 @@
     font-style: normal;
     color: #ffffff;
   }
-
 
   .contact_maps_right_address_h4 {
     font-family: "Segoe UI";
@@ -539,7 +534,7 @@
 
   .contact-infor-section .contact-card:first-child .contact-panel {
     animation-delay: 0.5s;
-    border: 1px solid rgb(255, 255, 255);
+
     text-align: center;
     transform: rotateY(10deg);
     transform-origin: 50% 50% 0px;
@@ -677,7 +672,6 @@
     font-style: normal;
     color: #ffffff;
   }
-
 
   .contact_maps_right_address_h4 {
     font-family: "Segoe UI";
@@ -961,7 +955,6 @@
 }
 
 @media screen and (max-width: 768px) {
-
   /* css contact maps */
   .contact_maps {
     padding-top: 4%;
@@ -1022,8 +1015,6 @@
     font-style: normal;
     color: #ffffff;
   }
-
-
 
   .contact_maps_right_address_h4 {
     font-family: "Segoe UI";
