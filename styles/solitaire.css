@@ -51,3 +51,9 @@
     flex-direction: column;
   }
 }
+
+@media only screen and (min-width: 1300px) and (max-width: 1500px) {
+  .solitaire_after {
+    height: 100%;
+  }
+}
